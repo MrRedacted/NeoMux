@@ -1,6 +1,10 @@
 # NvTmux
 A config to make tmux better work with neovim.
 
-Be sure to backup your own .tmux.conf before downloading.
+Be sure to back up your own .tmux.conf before downloading.
 
-To download run `wget -O ~/.tmux.conf https://github.com/MrRedacted/NvTmux/raw/master/tmux.conf`
+To download run either:
+
+curl - `curl -o ~/.tmux.conf https://raw.githubusercontent.com/MrRedacted/NvTmux/master/tmux.conf`
+
+wget - `wget -o ~/.tmux.conf https://raw.githubusercontent.com/MrRedacted/NvTmux/master/tmux.conf`
