@@ -7,4 +7,4 @@ To download run either:
 
 curl - `curl -o ~/.tmux.conf https://raw.githubusercontent.com/MrRedacted/NvTmux/master/tmux.conf`
 
-wget - `wget -o ~/.tmux.conf https://raw.githubusercontent.com/MrRedacted/NvTmux/master/tmux.conf`
+wget - `wget -O ~/.tmux.conf https://raw.githubusercontent.com/MrRedacted/NvTmux/master/tmux.conf`
