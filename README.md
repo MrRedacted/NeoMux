@@ -1,5 +1,5 @@
 # NvTmux
-A config to make tmux work better with neovim.
+A config to make tmux better (neovim compatibility and gruvbox theme)
 
 Be sure to back up your own .tmux.conf before downloading.
 
