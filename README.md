@@ -1,4 +1,4 @@
-# NvTmux
+# NeoMux
 A config to make tmux better (neovim compatibility and gruvbox theme)
 
 Be sure to back up your own .tmux.conf before downloading.
