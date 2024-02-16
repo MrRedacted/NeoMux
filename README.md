@@ -5,14 +5,12 @@ Be sure to back up your own .tmux.conf before downloading.
 
 ## To download, use either curl or wget:
 
-### Special symbol free:
-
 curl - `curl -o ~/.tmux.conf https://raw.githubusercontent.com/MrRedacted/NeoMux/master/tmux.conf`
 
 wget - `wget -O ~/.tmux.conf https://raw.githubusercontent.com/MrRedacted/NeoMux/master/tmux.conf`
 
-### With added styling using special symbols:
+### With special symbols removed:
 
-curl - `curl -o ~/.tmux.conf https://raw.githubusercontent.com/MrRedacted/NeoMux/master/fancy_tmux.conf`
+curl - `curl -o ~/.tmux.conf https://raw.githubusercontent.com/MrRedacted/NeoMux/master/tmux_no_symbols.conf`
 
-wget - `wget -O ~/.tmux.conf https://raw.githubusercontent.com/MrRedacted/NeoMux/master/fancy_tmux.conf`
+wget - `wget -O ~/.tmux.conf https://raw.githubusercontent.com/MrRedacted/NeoMux/master/tmux_no_symbols.conf`
