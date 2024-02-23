@@ -9,8 +9,8 @@ curl - `curl -o ~/.tmux.conf https://raw.githubusercontent.com/MrRedacted/NeoMux
 
 wget - `wget -O ~/.tmux.conf https://raw.githubusercontent.com/MrRedacted/NeoMux/master/tmux.conf`
 
-### With special symbols removed:
+### With special symbols added (looks fancier):
 
-curl - `curl -o ~/.tmux.conf https://raw.githubusercontent.com/MrRedacted/NeoMux/master/tmux_no_symbols.conf`
+curl - `curl -o ~/.tmux.conf https://raw.githubusercontent.com/MrRedacted/NeoMux/master/tmux_fancy.conf`
 
-wget - `wget -O ~/.tmux.conf https://raw.githubusercontent.com/MrRedacted/NeoMux/master/tmux_no_symbols.conf`
+wget - `wget -O ~/.tmux.conf https://raw.githubusercontent.com/MrRedacted/NeoMux/master/tmux_fancy.conf`
