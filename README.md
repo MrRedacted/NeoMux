@@ -19,6 +19,6 @@ wget - `wget -O ~/.tmux.conf https://raw.githubusercontent.com/MrRedacted/NeoMux
 
 ### Duskfox (Nightfox) color theme:
 
-curl - `curl -o ~/.tmux.conf https://raw.githubusercontent.com/MrRedacted/NeoMux/master/duskmux_fancy.conf`
+curl - `curl -o ~/.tmux.conf https://raw.githubusercontent.com/MrRedacted/NeoMux/master/duskmux.conf`
 
-wget - `wget -O ~/.tmux.conf https://raw.githubusercontent.com/MrRedacted/NeoMux/master/duskmux_fancy.conf`
+wget - `wget -O ~/.tmux.conf https://raw.githubusercontent.com/MrRedacted/NeoMux/master/duskmux.conf`
