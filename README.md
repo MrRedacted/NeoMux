@@ -28,3 +28,9 @@ wget - `wget -O ~/.tmux.conf https://raw.githubusercontent.com/MrRedacted/NeoMux
 curl - `curl -o ~/.tmux.conf https://raw.githubusercontent.com/MrRedacted/NeoMux/master/duskmux.conf`
 
 wget - `wget -O ~/.tmux.conf https://raw.githubusercontent.com/MrRedacted/NeoMux/master/duskmux.conf`
+
+### Kanagawa (wave) color theme:
+
+curl - `curl -o ~/.tmux.conf https://raw.githubusercontent.com/MrRedacted/NeoMux/master/kanamux.conf`
+
+wget - `wget -O ~/.tmux.conf https://raw.githubusercontent.com/MrRedacted/NeoMux/master/kanamux.conf`
